@@ -1,4 +1,4 @@
-# -ai-procurement-copilot
+# ai-procurement-copilot
 Part of TheDataImpact-LH portfolio | RAG-powered AI copilot for procurement analytics. Conversational AI that answers procurement questions across PO history, vendor contracts &amp; spend data. Ask *"Which supplier missed SLAs in Q3?"* and get cited, data-grounded answers in seconds.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://python.org)
