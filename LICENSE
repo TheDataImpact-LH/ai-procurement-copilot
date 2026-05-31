@@ -1,21 +1,77 @@
-MIT License
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 
-Copyright (c) 2026 LaKeisha Harris | Data Engineer & AI Leader
+Copyright (c) 2026 LaKeisha Harris (TheDataImpact-LH)
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================
+HUMAN-READABLE SUMMARY (not a substitute for the full license)
+================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You ARE allowed to:
+  ✔ View and read this code for educational purposes
+  ✔ Share a link to this repository
+  ✔ Reference this project in articles or discussions WITH credit
+
+You are NOT allowed to:
+  ✗ Copy, clone, or reproduce this code in your own projects
+  ✗ Use this code commercially or for financial gain
+  ✗ Modify, adapt, or build derivative works from this code
+  ✗ Distribute or sublicense this code in any form
+  ✗ Remove or alter this copyright notice
+  ✗ Use this work to train AI/ML models without written permission
+
+================================================================
+ATTRIBUTION REQUIREMENT
+================================================================
+
+Any permitted reference to this work MUST include:
+  - Full name: LaKeisha Harris
+  - GitHub handle: TheDataImpact-LH
+  - Link to original repository
+  - Statement that the work is used with permission
+
+================================================================
+AI TRAINING RESTRICTION
+================================================================
+
+This work and all associated code, data, documentation, and
+assets are explicitly excluded from use in training, fine-tuning,
+or evaluating any artificial intelligence or machine learning
+model, system, or dataset — commercial or otherwise — without
+the express written consent of LaKeisha Harris.
+
+================================================================
+COMMERCIAL USE
+================================================================
+
+For commercial licensing, partnership inquiries, or written
+permission to use this work, contact:
+
+  LaKeisha Harris
+  GitHub:   https://github.com/TheDataImpact-LH
+  LinkedIn: https://www.linkedin.com/in/lakeisha-harris/
+
+================================================================
+LEGAL NOTICE
+================================================================
+
+This software and associated documentation are the original,
+proprietary intellectual property of LaKeisha Harris. Unauthorized
+reproduction, distribution, or use — in whole or in part — may
+result in civil and criminal penalties and will be prosecuted to
+the maximum extent possible under applicable law.
+
+The original authorship of this work is timestamped and recorded
+via Git commit history, GitHub repository creation date, and
+independent copyright registration. Proof of original authorship
+is preserved and available upon request.
+
+================================================================
+FULL LICENSE TEXT
+================================================================
+
+Full legal text of CC BY-NC-ND 4.0:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
